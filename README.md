@@ -19,7 +19,7 @@
 ---
 
 ## 🌐 Contato
-📫 Email: [otavio@email.com](mailto:otavio@email.com)  
+📫 Email: [otavio@email.com](mailto:otavio.silva.feitosa@gmail.com)  
 💼 GitHub: [github.com/otaviohenrique17](https://github.com/otaviohenrique17)
 
 ---
